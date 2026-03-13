@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krieger&#39;s Homepage</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Krieger&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Fri, 13 Mar 2026 14:11:39 -0400</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modded Server Information</title>
+      <link>https://example.org/minecraft/modded-server-information/</link>
+      <pubDate>Fri, 13 Mar 2026 14:11:39 -0400</pubDate>
+      
+      <guid>https://example.org/minecraft/modded-server-information/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/minecraft/modded-server-information/featured.png" />
+    </item>
+    
+    <item>
+      <title>Vanilla&#43; Server Information</title>
+      <link>https://example.org/minecraft/vanilla&#43;-server-information/</link>
+      <pubDate>Fri, 13 Mar 2026 12:39:50 -0400</pubDate>
+      
+      <guid>https://example.org/minecraft/vanilla&#43;-server-information/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/minecraft/vanilla&#43;-server-information/featured.png" />
+    </item>
+    
+    <item>
+      <title>Valik&#39;thuul</title>
+      <link>https://example.org/ai-worlds/valikthuul/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/ai-worlds/valikthuul/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ai-worlds/valikthuul/featured.png" />
+    </item>
+    
+    <item>
+      <title>Valik&#39;thuul</title>
+      <link>https://example.org/worlds/valikthuul/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/worlds/valikthuul/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/worlds/valikthuul/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

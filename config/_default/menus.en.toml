@@ -1,0 +1,14 @@
+[[main]]
+name = "Minecraft"
+pageRef = "Minecraft"
+identifier = "IdzeaCNytg"
+weight = 9_999
+
+[[main]]
+name = "Worlds"
+pageRef = "Worlds"
+identifier = "QgtMKFt7Qt"
+weight = 9_999
+
+[[footer]]
+none = "none"

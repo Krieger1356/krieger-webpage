@@ -1,0 +1,26 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Krieger's Homepage"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "sword logo.png"
+secondaryLogo = "sword logo.png"
+
+[[params.author.links]]
+eye = "http://fileshare.kriegerhost.xyz"
+
+[[params.author.links]]
+music = "http://audiobook.kriegerhost.xyz"
+
+[[params.author.links]]
+steam = "https://steamcommunity.com/id/Krieger1356/"
+
+["params.author"]
+bio = ""
+headline = " "
