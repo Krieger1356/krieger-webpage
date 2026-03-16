@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lore Information for my Created Worlds on Krieger&#39;s Homepage</title>
-    <link>https://example.org/ai-worlds/</link>
+    <link>http://localhost:1313/ai-worlds/</link>
     <description>Recent content in Lore Information for my Created Worlds on Krieger&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/ai-worlds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ai-worlds/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Earth</title>
+      <link>http://localhost:1313/ai-worlds/earth/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ai-worlds/earth/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ai-worlds/earth/featured.png" />
+    </item>
     
     <item>
       <title>Valik&#39;thuul</title>
-      <link>https://example.org/ai-worlds/valikthuul/</link>
+      <link>http://localhost:1313/ai-worlds/valikthuul/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/ai-worlds/valikthuul/</guid>
+      <guid>http://localhost:1313/ai-worlds/valikthuul/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/ai-worlds/valikthuul/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ai-worlds/valikthuul/featured.png" />
     </item>
     
   </channel>

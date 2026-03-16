@@ -24,10 +24,10 @@ My servers always include a whitelist, in order to join you must submit your acc
 
 1. Download and install the latest version of the [Prism Launcher](https://prismlauncher.org/)
 1. Launch Prism and sign in to your Microsoft account
-1. Download the [modpack](https://fileshare.kriegerhost.xyz/public/api/raw?hash=Ic_nyJyMwmmNy5H6xII-XA) 
-1. Inside Prism click the button in the top left corner that says "Add Instance"
-1. In the list on the right of the pop-up window click "Import"
-1. Click the "Browse" button and navigate to the location of whichever modpack you chose.
+1. Download the [modpack](https://fileshare.kriegerhost.xyz/public/share/Ic_nyJyMwmmNy5H6xII-XA)
+1. Inside Prism click the button in the top left corner that says *Add Instance*
+1. In the list on the right of the pop-up window click *Import*
+1. Click the *Browse* button and navigate to the location of whichever modpack you chose.
 1. Click the instance to launch it, the server should be added already but in the event it is not the address is `mcmod.kriegerhost.xyz`
 
 # Enjoy!
