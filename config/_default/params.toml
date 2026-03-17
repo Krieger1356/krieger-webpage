@@ -28,7 +28,7 @@ defaultBackgroundImage = "upscale_time__00003_.png"
 site = ""
 
 [header]
-layout = "basic"
+layout = "fixed-fill"
 
 [footer]
 showMenu = true
@@ -44,7 +44,7 @@ showRecentItems = 6
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
 homepageImage = "upscale_time__00003_.png"

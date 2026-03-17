@@ -4,6 +4,9 @@ draft = false
 title = 'Vanilla+ Server Information'
 +++
 
+>[!IMPORTANT]
+>Please, actually read the instructions in detail.
+
 # Server Information
 A vanilla minecraft server for people who want a simpler experience. The modpacks below only add small QOL features and performance fixes. The server uses PurPur Minecraft as the backend.
 
@@ -18,9 +21,16 @@ My servers always include a whitelist, in order to join you must submit your acc
 1. I will message when I have added you
 1. At this time I will send you the login information for the fileshare (described below)
 
-## Prerequisites
+## Choosing a Modpack
 
-**Knowing how to read and follow instructions.**
+{{< mermaid >}}
+flowchart LR
+    A(Which Modpack?) -->B(Do I use a controller?)
+    B -->|Yes| C(Vanilla Plus Controller)
+    B -->|No| D(Vanilla Plus Normal)
+{{< /mermaid >}}
+
+## Prerequisites
 
 1. Download and install the latest version of the [Prism Launcher](https://prismlauncher.org/)
 1. Launch Prism and sign in to your Microsoft account
@@ -32,4 +42,5 @@ My servers always include a whitelist, in order to join you must submit your acc
 1. Click the *Browse* button and navigate to the location of whichever modpack you chose.
 1. Click the instance to launch it, the server should be added already but in the event it is not the address is `mc.kriegerhost.xyz`
 
+---
 # Enjoy!

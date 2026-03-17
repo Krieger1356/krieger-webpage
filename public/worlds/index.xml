@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lore Information for my Created Worlds on Krieger&#39;s Homepage</title>
-    <link>https://example.org/worlds/</link>
-    <description>Recent content in Lore Information for my Created Worlds on Krieger&#39;s Homepage</description>
+    <title>Lore Information for my Created Worlds on Krieger&#39;s Homepage (WIP)</title>
+    <link>http://localhost:1313/worlds/</link>
+    <description>Recent content in Lore Information for my Created Worlds on Krieger&#39;s Homepage (WIP)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/worlds/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Valik&#39;thuul</title>
-      <link>https://example.org/worlds/valikthuul/</link>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/worlds/valikthuul/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/worlds/valikthuul/featured.png" />
-    </item>
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/worlds/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
